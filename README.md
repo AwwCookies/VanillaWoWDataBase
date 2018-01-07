@@ -1,2 +1,2 @@
-# VaillnaWoWDataBase
-all vaillna wow items
+# VanillaWoWDataBase
+all vanilla wow items
